@@ -26,7 +26,7 @@ class CategoryItem extends StatelessWidget {
           Text(category.name, style: TextStyle(fontWeight: FontWeight.bold),),
         ),
       ),
-    );
+    );//mariam
   }
 }
 // }
