@@ -6,7 +6,7 @@ class Category{
   final String name;
   final Widget api;
 
-  Category({required this.id, required this.image, required this.name, required this.api});
+ const Category({required this.id, required this.image, required this.name, required this.api});
 
 
 

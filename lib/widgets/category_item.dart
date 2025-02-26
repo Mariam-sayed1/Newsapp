@@ -26,15 +26,6 @@ class CategoryItem extends StatelessWidget {
           Text(category.name, style: TextStyle(fontWeight: FontWeight.bold),),
         ),
       ),
-    );//mariam
+    );
   }
 }
-// }
-// Center(
-// child: ElevatedButton(
-// onPressed: () {
-// Navigator.push(
-// context,
-// MaterialPageRoute(builder: (context) => NewScreen(id: 10)),
-// );
-// }
